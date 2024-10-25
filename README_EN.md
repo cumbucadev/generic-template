@@ -16,19 +16,19 @@
 
 [Versão em Português](/README.md)
 
-## New Features and Reporting Bugs
+## 💬 New Features and Reporting Bugs
 
 If you would like to suggest new features or report bugs, just create a new [issue][github-issues] and we will respond there!
 
 (To learn more about GitHub issues, check out the [official GitHub documentation][github-issues-doc]).
 
-## Questions? Ideas?
+## 💡 Questions? Ideas?
 
 Do you have questions about how to use the library? New ideas for the project? Want to share something with us? Feel free to create a topic in our [Discussions][github-discussions], and we’ll interact with you there!
 
 (To learn more about GitHub discussions, check out the [official GitHub documentation][github-discussions-doc]).
 
-## Contributing to the Project's Code
+## 💻 Contributing to the Project's Code
 
 Your contribution is always very welcome! To help you get started, we’ve prepared the following files:
 

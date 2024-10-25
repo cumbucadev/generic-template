@@ -16,7 +16,7 @@
 
 [English Version](/README_EN.md)
 
-## Novos Funcionalidades e Reportar Bugs
+## 💬 Novos Funcionalidades e Reportar Bugs
 
 Caso queira sugerir novas funcionalidades ou reportar bugs, basta criar
 uma nova [issue][github-issues] e iremos lhe responder por lá!
@@ -24,7 +24,7 @@ uma nova [issue][github-issues] e iremos lhe responder por lá!
 (Para saber mais sobre github issues, confira a
 [documentação oficial do GitHub][github-issues-doc]).
 
-## Dúvidas? Ideias?
+## 💡 Dúvidas? Ideias?
 
 Dúvidas de como utilizar a biblioteca? Novas ideias para o projeto? Quer compartilhar algo com a
 gente? Fique à vontade para criar um tópico no nosso [Discussions][github-discussions] que iremos
@@ -33,7 +33,7 @@ interagir por lá!
 (Para saber mais sobre github discussions, confira a
 [documentação oficial do GitHub][github-discussions-doc]).
 
-## Contribuindo com o Código do Projeto
+## 💻 Contribuindo com o Código do Projeto
 
 Sua colaboração é sempre muito bem-vinda! Para facilitar seus primeiros passos, preparamos os seguintes arquivos:
 
