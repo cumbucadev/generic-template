@@ -1,3 +1,17 @@
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github.com/cumbucadev/design/raw/main/images/logo-dark-transparent.png"
+    >
+    <img
+      alt="Logo do Cumbuca Dev"
+      src="https://github.com/cumbucadev/design/raw/main/images/logo-light-transparent.png"
+      width="20%"
+    >
+  </picture>
+</div>
+
 # <nome-do-repositório>
 
 [English Version](/README_EN.md)
@@ -30,6 +44,10 @@ Sua colaboração é sempre muito bem-vinda! Para facilitar seus primeiros passo
 - [LICENSE.md](/LICENSE.md): Detalhes sobre a licença do projeto. Ela define o que você pode e não pode fazer com o código. Em geral, a licença permite que você use, modifique e distribua o código, desde que siga os termos definidos. No entanto, é importante verificar se há restrições específicas, como atribuição de crédito ao autor original ou proibição de uso comercial.
 
 Certifique-se de ler esses arquivos com atenção antes de contribuir. Se tiver qualquer dificuldade ou dúvida, não hesite em nos perguntar utilizando o [GitHub Discussions][github-discussions]. Toda ajuda conta!
+
+## ❤️ Quem já Contribuiu
+
+[![contributors](https://contrib.rocks/image?repo=cumbucadev/generic-template)](https://github.com/cumbucadev/generic-template/graphs/contributors)
 
 [github-discussions-doc]: https://docs.github.com/pt/discussions
 [github-discussions]: https://github.com/cumbucadev/<nome-do-repositório>/discussions
