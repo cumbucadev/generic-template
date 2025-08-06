@@ -14,8 +14,6 @@
 
 # <nome-do-repositório>
 
-[English Version](/README_EN.md)
-
 ## 💬 Novos Funcionalidades e Reportar Bugs
 
 Caso queira sugerir novas funcionalidades ou reportar bugs, basta criar
