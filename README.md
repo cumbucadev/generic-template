@@ -14,6 +14,8 @@
 
 # <nome-do-repositório>
 
+[English Version](/README_EN.md)
+
 ## 💬 Novos Funcionalidades e Reportar Bugs
 
 Caso queira sugerir novas funcionalidades ou reportar bugs, basta criar
@@ -36,8 +38,11 @@ interagir por lá!
 Sua colaboração é sempre muito bem-vinda! Para facilitar seus primeiros passos, preparamos os seguintes arquivos:
 
 - [CONTRIBUTING.md](/CONTRIBUTING.md): Aqui você encontrará todas as instruções necessárias para contribuir com o projeto.
+- [CONTRIBUTING_EN.md](/CONTRIBUTING_EN.md): Versão em inglês das diretrizes de contribuição.
 - [CODE_OF_CONDUCT.md](/CODE_OF_CONDUCT.md): Nosso código de conduta, que define as expectativas para interações respeitosas e inclusivas dentro da comunidade.
+- [CODE_OF_CONDUCT_EN.md](/CODE_OF_CONDUCT_EN.md): Versão em inglês do código de conduta.
 - [CORE_TEAM.md](/CORE_TEAM.md): Lista e apresenta informações sobre as pessoas integrantes do time principal do projeto, incluindo suas funções e formas de contato.
+- [CORE_TEAM_EN.md](CORE_TEAM_EN.md): Versão em inglês da lista e informações sobre o time principal do projeto.
 - [LICENSE.md](/LICENSE.md): Detalhes sobre a licença do projeto. Ela define o que você pode e não pode fazer com o código. Em geral, a licença permite que você use, modifique e distribua o código, desde que siga os termos definidos. No entanto, é importante verificar se há restrições específicas, como atribuição de crédito ao autor original ou proibição de uso comercial.
 
 Certifique-se de ler esses arquivos com atenção antes de contribuir. Se tiver qualquer dificuldade ou dúvida, não hesite em nos perguntar utilizando o [GitHub Discussions][github-discussions]. Toda ajuda conta!
