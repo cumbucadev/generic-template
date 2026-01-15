@@ -44,6 +44,8 @@ Sua colaboração é sempre muito bem-vinda! Para facilitar seus primeiros passo
 - [CORE_TEAM.md](/CORE_TEAM.md): Lista e apresenta informações sobre as pessoas integrantes do time principal do projeto, incluindo suas funções e formas de contato.
 - [CORE_TEAM_EN.md](CORE_TEAM_EN.md): Versão em inglês da lista e informações sobre o time principal do projeto.
 - [LICENSE.md](/LICENSE.md): Detalhes sobre a licença do projeto. Ela define o que você pode e não pode fazer com o código. Em geral, a licença permite que você use, modifique e distribua o código, desde que siga os termos definidos. No entanto, é importante verificar se há restrições específicas, como atribuição de crédito ao autor original ou proibição de uso comercial.
+- [VISION.md](/VISION.md): Explica o propósito, o público-alvo, a visão de futuro, os princípios e o contexto geral do projeto dentro da Cumbuca.
+- [VISION_EN.md](/VISION_EN.md): Versão em inglês do documento de visão do projeto.
 
 Certifique-se de ler esses arquivos com atenção antes de contribuir. Se tiver qualquer dificuldade ou dúvida, não hesite em nos perguntar utilizando o [GitHub Discussions][github-discussions]. Toda ajuda conta!
 
